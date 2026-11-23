@@ -87,16 +87,9 @@ resources/
 
 ---
 
-## 📞 تواصل معي والكورس التعليمي (Contact & Course)
-
-<div align="center">
-
-[![Course](https://shields.io)](https://codebase.ebdaey.com/c/ihavohbzps)
-[![Facebook Page](https://shields.io)](https://www.facebook.com/profile.php?id=61596814111622)
-[![Personal Account](https://shields.io)](https://www.facebook.com/profile.php?id=61596369287456)
-
-</div>
+## 📞 لو عندك سؤال تواصل معي | Have a question? Contact me
 
 - 🎓 **رابط الكورس:** https://codebase.ebdaey.com/c/ihavohbzps
 - 🔵 **صفحة الفيسبوك:** https://www.facebook.com/profile.php?id=61596814111622
 - 👤 **حسابي الشخصي:** https://www.facebook.com/profile.php?id=61596369287456
+- 📺 **قناة اليوتيوب:** https://www.youtube.com/@CodeBaseDev
