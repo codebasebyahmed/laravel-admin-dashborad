@@ -4,9 +4,9 @@
 <br>
 _A modern, fast, and fully responsive admin dashboard template built with Laravel Blade & Tailwind CSS._
 
-[![Laravel](https://shields.io)](https://laravel.com)
-[![TailwindCSS](https://shields.io)](https://tailwindcss.com)
-[![RTL & LTR](https://shields.io)](<>)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![RTL & LTR](https://img.shields.io/badge/RTL%20%26%20LTR-Supported-brightgreen)](你的链接地址)
 
 </div>
 
