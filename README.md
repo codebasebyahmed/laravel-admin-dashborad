@@ -32,40 +32,6 @@ _A modern, fast, and fully responsive admin dashboard template built with Larave
 
 ---
 
-## 🛠️ التقنيات المستخدمة (Tech Stack)
-
-- **Backend / Templating:** Laravel Blade
-- **Styling:** Tailwind CSS
-- **Icons:** Heroicons / Lucide Icons _(عدّل هذا السطر حسب مكتبة الأيقونات التي استخدمتها)_
-
----
-
-## 🚀 طريقة التثبيت والدمج في مشروعك (Installation & Integration)
-
-يمكنك نقل التصميم إلى مشروعك الحالي باتباع الخطوات البسيطة التالية:
-
-### 1. نسخ الملفات (Copy Files)
-
-- انسخ مجلدات الواجهات من `resources/views/` (مثل `layouts` و `components` وصفحات الداشبورد) إلى مشروعك.
-- انسخ ملفات التنسيق والسكربتات من مجلد `resources/css/` و `resources/js/`.
-
-### 2. تثبيت الحزم وتشغيل Tailwind (Install Dependencies)
-
-تأكد من تثبيت حزم Node.js وتشغيل أمر البناء في مشروعك:
-
-```bash
-npm install
-npm run dev
-```
-
-### 3. تشغيل المشروع (Run Server)
-
-```bash
-php artisan serve
-```
-
----
-
 ## 📂 هيكلية الملفات (Directory Structure)
 
 ```text
@@ -88,6 +54,15 @@ resources/
 ---
 
 ## 📞 لو عندك سؤال تواصل معي | Have a question? Contact me
+
+<div align="center">
+
+[![Course](https://img.shields.io/badge/Course-CodeBase-blue?style=flat&logo=googlechrome&logoColor=white)](https://codebase.ebdaey.com/c/ihavohbzps)
+[![Facebook Page](https://img.shields.io/badge/Facebook-Page-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61596814111622)
+[![Personal Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61596369287456)
+[![YouTube](https://img.shields.io/badge/YouTube-CodeBaseDevs-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@CodeBaseDevs)
+
+</div>
 
 - 🎓 **رابط الكورس:** https://codebase.ebdaey.com/c/ihavohbzps
 - 🔵 **صفحة الفيسبوك:** https://www.facebook.com/profile.php?id=61596814111622
