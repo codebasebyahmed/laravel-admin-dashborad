@@ -71,21 +71,30 @@ php artisan serve
 ```text
 resources/
 ├── views/
-│   ├── layouts/          # القالب الرئيسي (Header, Sidebar, Footer)
-│   ├── components/       # العناصر القابلة لإعادة الاستخدام (Buttons, Cards, Modals)
-│   └── dashboard/        # صفحات لوحة التحكم
-├── css/
-│   └── app.css           # إعدادات Tailwind CSS
-└── js/
-    └── app.js            # ملفات الجافاسكريبت والتفاعلات
+│   ├── layouts/admin.blade.php          # for dashboard
+│   └── admin/dashboard.blade.php        # for dashboard
+│   ├── admin/auth/login.blade.php          # for login form
+└──
 ```
 
 ---
 
 ## 🤝 المساهمة والدعم (Contributing)
 
-نرحب بأي اقتراحات أو تحسينات لجعل هذا القالب أفضل. لا تتردد في عمل **Fork** للمشروع أو فتح **Issue** جديد.
-
 <div align="center">
   <b>إذا أعجبك المشروع، لا تنسَ دعمه بنجمة ⭐ على GitHub!</b>
 </div>
+
+## 📞 تواصل معي والكورس التعليمي (Contact & Course)
+
+<div align="center">
+
+[![Course](https://shields.io)](https://codebase.ebdaey.com/c/ihavohbzps)
+[![Facebook Page](https://shields.io)](https://www.facebook.com/profile.php?id=61596814111622)
+[![Personal Account](https://shields.io)](https://www.facebook.com/profile.php?id=61596369287456)
+
+</div>
+
+- 🎓 **رابط الكورس:** [اضغط هنا لمتابعة الكورس الكامل](https://codebase.ebdaey.com/c/ihavohbzps)
+- 🔵 **صفحة الفيسبوك:** [تابع صفحتنا للمزيد من الدروس والتحديثات](https://www.facebook.com/profile.php?id=61596814111622)
+- 👤 **حسابي الشخصي:** [تواصل معي مباشرة عبر فيسبوك](https://www.facebook.com/profile.php?id=61596369287456)
