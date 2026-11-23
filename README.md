@@ -92,4 +92,4 @@ resources/
 - 🎓 **رابط الكورس:** https://codebase.ebdaey.com/c/ihavohbzps
 - 🔵 **صفحة الفيسبوك:** https://www.facebook.com/profile.php?id=61596814111622
 - 👤 **حسابي الشخصي:** https://www.facebook.com/profile.php?id=61596369287456
-- 📺 **قناة اليوتيوب:** https://www.youtube.com/@CodeBaseDev
+- 📺 **قناة اليوتيوب:** https://www.youtube.com/@CodeBaseDevs
