@@ -85,6 +85,8 @@ resources/
   <b>إذا أعجبك المشروع، لا تنسَ دعمه بنجمة ⭐ على GitHub!</b>
 </div>
 
+---
+
 ## 📞 تواصل معي والكورس التعليمي (Contact & Course)
 
 <div align="center">
@@ -95,6 +97,6 @@ resources/
 
 </div>
 
-- 🎓 **رابط الكورس:** [اضغط هنا لمتابعة الكورس الكامل](https://codebase.ebdaey.com/c/ihavohbzps)
-- 🔵 **صفحة الفيسبوك:** [تابع صفحتنا للمزيد من الدروس والتحديثات](https://www.facebook.com/profile.php?id=61596814111622)
-- 👤 **حسابي الشخصي:** [تواصل معي مباشرة عبر فيسبوك](https://www.facebook.com/profile.php?id=61596369287456)
+- 🎓 **رابط الكورس:** https://codebase.ebdaey.com/c/ihavohbzps
+- 🔵 **صفحة الفيسبوك:** https://www.facebook.com/profile.php?id=61596814111622
+- 👤 **حسابي الشخصي:** https://www.facebook.com/profile.php?id=61596369287456
